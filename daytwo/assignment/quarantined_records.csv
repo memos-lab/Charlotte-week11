@@ -1,0 +1,2 @@
+sample_id,alcohol,malic_acid,color_intensity,proline,target,domain_invalid,malic_acid_z_flag,malic_acid_iqr_flag,proline_z_flag,proline_iqr_flag,review_needed
+WINE-013,13.75,1.73,5.6,-45.0,0,True,False,False,False,False,False

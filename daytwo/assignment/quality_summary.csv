@@ -1,0 +1,3 @@
+measurement,total_rows,retained_rows,quarantined_rows,z_flag_count,iqr_flag_count,review_needed_count
+malic_acid,178,177,1,1,4,4
+proline,178,177,1,1,1,1
