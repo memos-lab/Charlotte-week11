@@ -1,0 +1,2 @@
+well_id,source_las_rows,source_scada_rows,merged_rows,featured_rows,missing_cells,depth_min_m,depth_max_m
+WELL-B,9,9,9,9,4,1000.0,1008.0
